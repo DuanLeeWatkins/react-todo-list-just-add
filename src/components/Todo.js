@@ -1,4 +1,4 @@
-
+//Creates a todo functional component
 const Todo = ({ todo }) => {
     return (
         <div>

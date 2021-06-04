@@ -3,8 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+//Renders app component in the DOM
 ReactDOM.render(
+//Checks for errors inside the app componenet
   <React.StrictMode>
     <App />
   </React.StrictMode>,

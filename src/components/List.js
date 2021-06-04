@@ -1,5 +1,6 @@
+//Imports the Todo component
 import Todo from './Todo'
-
+//Create a List functional component
 const List = ({ todos }) => {
     return (
         <div>

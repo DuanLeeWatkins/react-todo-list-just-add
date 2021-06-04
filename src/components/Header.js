@@ -1,5 +1,5 @@
 import React from "react";
-
+//Creates a header functional component
 const Header = (props) => {
   return (
     <div>
@@ -7,7 +7,7 @@ const Header = (props) => {
     </div>
   );
 };
-
+//Creates a headerStyle functional component with states
 const headerStyle = {
   fontSize: "40px",
   textDecoration: "underline",
